@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-import gaime.networks.features as ft
+import ml.networks.features as ft
 import functools as ftools
 import torch.nn.functional as fn
 import math
